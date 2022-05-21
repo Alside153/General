@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Shlomo Ruckban
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning Fullstack 
-- 📫 How to reach me email: shlomoruckban@gmail.com
+- 🌱 I studied FullStack in Kernelios, among the things learned are ReactJS, ReactNative, Javascript, HTML, CSS, Node.JS and MongoDB.
+- 📫 How to reach me: 
+- Email: shlomoruckban@gmail.com
+- Linkedin: https://www.linkedin.com/in/shlomo-ruckban/
